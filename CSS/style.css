@@ -1,0 +1,199 @@
+body {
+
+  margin: 0 ;
+  text-align: center;
+  line-height: 1.5;
+}
+
+h1{
+
+    font-family: 'Sacramento', cursive;
+    font-size:4.2rem;
+    color: #27496d;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+.bsm {
+
+  font-family: 'Aref Ruqaa', serif;
+  font-size:2.5rem;
+  color: #27496d;
+  margin: 0;
+  padding-top: 40px;
+}
+
+hr{
+  border: dotted #6f9a8d 6px;
+  border-bottom: none;
+  width: 2.2%;
+  margin-bottom: 30px;
+}
+
+.top-part{
+background-color: #cff1ef;
+  text-align: center;
+  position: relative;
+  margin: 0;
+}
+
+.t-cloud {
+position: absolute;
+right: 270px;
+top: 150px;
+}
+
+.b-cloud{
+
+  position: absolute;
+  left: 300px;
+  bottom:350px;
+
+}
+
+
+.bird1{
+  position: absolute;
+  right: 250px;
+  bottom: 0;
+}
+
+.bird2 {
+
+  position: absolute;
+  right: 150px;
+  bottom: 300px;
+}
+
+.bird3 {
+
+  position: absolute;
+  left:350px;
+  bottom:150px;
+
+}
+.top-part-word{
+font-family: 'Gabriela', serif;
+font-size: 4rem;
+color: #394a6d;
+margin: 0;
+padding-top: 0;
+margin-bottom: 110px;
+
+}
+
+/* this is styling of the middle-container*/
+
+.middle-part{
+  background-color: #c9d1d3;
+
+}
+.yemenimg{
+  width: 16%;
+  padding-top: 20px;
+}
+.aboutme{
+  width: 22%;
+  margin: 0 auto;
+  font-family: 'Gabriela', serif;
+margin-bottom: 50px;
+}
+.aboutme1 {
+  font-family: 'Gabriela', serif;
+}
+.det{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  width: 125px;
+  color: #11999E;
+}
+.mytable {
+width: 41%;
+margin: 0 auto;
+}
+.skill-2{
+  width: 50%;
+  margin: auto auto 40px;
+}
+.english{
+width: 20%;
+float: right;
+margin-right: 135px;
+}
+.det1{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #11999E;
+  font-size: 1rem;
+}
+.aboutme2{
+font-family: 'Gabriela', serif;
+width: 40%;
+margin-left: 90px;
+}
+
+.touch{
+  text-decoration: underline;
+  font-family: 'Merriweather', serif;
+}
+#touch{
+  font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+}
+/* the button desgin */
+.btn {
+  border: none;
+  display: inline-block;
+  width: 7%;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  outline: none;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  background-color: #222;
+  padding: 10px 8px  ;
+  margin: 20px auto;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.20);
+  text-decoration: none;
+}
+.btn:hover{
+  background-color: red;
+  /* the end of button desgin */
+}
+.aboutme3{
+  font-family: 'Gabriela', serif;
+  padding-bottom: 10px;
+}
+
+/* The end of styling the middle-container*/
+
+/* styling the bottom-contaier */
+.bot-container{
+  background-color: #5f6769;
+  padding: 40px 0  25px;
+}
+.footer-link{
+  margin: 0 30px;
+  padding: 10px 0 25px;
+display: inline-block;
+font-family: 'Gabriela', serif;
+font-size: 1.12rem;text-decoration: none;
+color: #000000;
+
+}
+.footer-link:hover{
+color:  #ffffff;
+}
+
+#author{
+  color: #ffffff;
+  font-size: 1rem;
+  font-family: 'Gabriela', serif;
+
+}
